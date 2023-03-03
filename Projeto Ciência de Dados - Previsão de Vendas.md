@@ -188,7 +188,7 @@ plt.show()
 
 
     
-![png](output_6_0.png)
+![output_6_0](https://user-images.githubusercontent.com/114118101/222702992-f1d22b02-ad87-4bd9-85e2-5688534bbd7a.png)
     
 
 
@@ -269,7 +269,7 @@ plt.show()
 
 
     
-![png](output_14_0.png)
+![output_14_0](https://user-images.githubusercontent.com/114118101/222703141-d8066678-6bd6-4e0f-906e-25c46d777b9e.png)
     
 
 
@@ -351,7 +351,7 @@ plt.show()
 
 
     
-![png](output_18_0.png)
+![output_18_0](https://user-images.githubusercontent.com/114118101/222703202-95155922-b91f-42c2-857f-bf16356b2e37.png)
     
 
 
